@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click', function(){
-    alert('Por eso te quiero, eres la mejor, Ana de mi corazon <3');
+    alert('Casi que no aceptas jajaja no te arrepentiras');
     });
 
 const noBtn = document.querySelector('#noBtn');
